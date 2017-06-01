@@ -11,8 +11,8 @@ end
 # gem 'rails', '~> 5.0.1'
 gem 'rails', '5.0.1'
 # Use sqlite3 as the database for Active Record
-#gem 'sqlite3'
-gem 'sqlite3','1.3.12'
+
+#gem 'sqlite3','1.3.12'
 # Use Puma as the app server
 #gem 'puma', '~> 3.0'
 gem 'puma', '3.4.0'
